@@ -1,0 +1,51 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/connectivity_macos.framework/Versions/A/connectivity_macos'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvM', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvMTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvg', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvgTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvpMV', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvpWvd', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvpfi', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvs', 
+                       '_$s18connectivity_macos18ConnectivityPluginC11cwinterfaceSo11CWInterfaceCSgvsTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC19reachabilityChanged33_EB247F291275D4F1CFC471C68F67B8F8LL12notificationySo14NSNotificationC_tF', 
+                       '_$s18connectivity_macos18ConnectivityPluginC22statusFromReachability33_EB247F291275D4F1CFC471C68F67B8F8LL12reachabilitySSSo0G0CSg_tF', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvM', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvMTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvg', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvgTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvpMV', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvpWvd', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvpfi', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvs', 
+                       '_$s18connectivity_macos18ConnectivityPluginC5reachSo12ReachabilityCSgvsTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', 
+                       '_$s18connectivity_macos18ConnectivityPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tF', 
+                       '_$s18connectivity_macos18ConnectivityPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tFTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctF', 
+                       '_$s18connectivity_macos18ConnectivityPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctFTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC8register4withySo07FlutterD9Registrar_p_tFZ', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvM', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvMTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvg', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvgTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvpMV', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvpWvd', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvpfi', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvs', 
+                       '_$s18connectivity_macos18ConnectivityPluginC9eventSinkyypSgcSgvsTq', 
+                       '_$s18connectivity_macos18ConnectivityPluginCACycfC', '_$s18connectivity_macos18ConnectivityPluginCACycfc', 
+                       '_$s18connectivity_macos18ConnectivityPluginCMa', '_$s18connectivity_macos18ConnectivityPluginCMn', 
+                       '_$s18connectivity_macos18ConnectivityPluginCN', '_$s18connectivity_macos18ConnectivityPluginCfD', 
+                       _connectivity_macosVersionNumber, _connectivity_macosVersionString, 
+                       _getWifiIP ]
+    objc-classes:    [ PodsDummy_connectivity_macos, _TtC18connectivity_macos18ConnectivityPlugin ]
+...

@@ -1,0 +1,12 @@
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-java-1.0.0-beta04-0 /Users/mianhaseeb/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-core-1.6.0-1 /Users/mianhaseeb/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-annotation-experimental-1.1.0-2 /Users/mianhaseeb/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-1.0.0-beta04-3 /Users/mianhaseeb/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-main-4 /Users/mianhaseeb/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-20.4.54/android/src/main/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-release-5 /Users/mianhaseeb/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-20.4.54/android/src/release/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-pngs-6 /Users/mianhaseeb/FlutterProjects/frameTutor/Frontend/frametutor/build/syncfusion_flutter_pdfviewer/generated/res/pngs/release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-resValues-7 /Users/mianhaseeb/FlutterProjects/frameTutor/Frontend/frametutor/build/syncfusion_flutter_pdfviewer/generated/res/resValues/release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-rs-8 /Users/mianhaseeb/FlutterProjects/frameTutor/Frontend/frametutor/build/syncfusion_flutter_pdfviewer/generated/res/rs/release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-9 /Users/mianhaseeb/FlutterProjects/frameTutor/Frontend/frametutor/build/syncfusion_flutter_pdfviewer/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-10 /Users/mianhaseeb/FlutterProjects/frameTutor/Frontend/frametutor/build/syncfusion_flutter_pdfviewer/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-merged_res-11 /Users/mianhaseeb/FlutterProjects/frameTutor/Frontend/frametutor/build/syncfusion_flutter_pdfviewer/intermediates/merged_res/release

@@ -1,0 +1,10 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/Reachability.framework/Versions/A/Reachability'
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ _ReachabilityVersionNumber, _ReachabilityVersionString, _kReachabilityChangedNotification ]
+    objc-classes:    [ PodsDummy_Reachability, Reachability ]
+...
